@@ -1,0 +1,14 @@
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/model/BaseEntity.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/model/Person.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/model/Owner.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/map/OwnerServiceMap.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/model/Pet.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/OwnerService.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/VetService.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/CrudService.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/map/PetServiceMap.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/PetService.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/model/Vet.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/map/VetServiceMap.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/services/map/AbstractMapService.java
+/Users/faciqui/Documents/Projets/Devs/Spring/sfc-pet-clinic/pet-clinic-data/src/main/java/com/example/sfcpetclinic/model/PetType.java

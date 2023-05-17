@@ -1,0 +1,14 @@
+com/example/sfcpetclinic/services/OwnerService.class
+com/example/sfcpetclinic/model/Owner.class
+com/example/sfcpetclinic/services/PetService.class
+com/example/sfcpetclinic/model/PetType.class
+com/example/sfcpetclinic/services/CrudService.class
+com/example/sfcpetclinic/services/VetService.class
+com/example/sfcpetclinic/model/Pet.class
+com/example/sfcpetclinic/services/map/PetServiceMap.class
+com/example/sfcpetclinic/model/Vet.class
+com/example/sfcpetclinic/model/Person.class
+com/example/sfcpetclinic/services/map/AbstractMapService.class
+com/example/sfcpetclinic/model/BaseEntity.class
+com/example/sfcpetclinic/services/map/OwnerServiceMap.class
+com/example/sfcpetclinic/services/map/VetServiceMap.class

@@ -1,0 +1,5 @@
+com/example/sfcpetclinic/bootstrap/DataLoader.class
+com/example/sfcpetclinic/controllers/OwnerController.class
+com/example/sfcpetclinic/SfcPetClinicApplication.class
+com/example/sfcpetclinic/controllers/IndexController.class
+com/example/sfcpetclinic/controllers/VetController.class
