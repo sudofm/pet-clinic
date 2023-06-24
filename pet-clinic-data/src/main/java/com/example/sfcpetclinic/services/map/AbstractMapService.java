@@ -44,4 +44,5 @@ public abstract class AbstractMapService<T extends BaseEntity, ID extends  Long>
         }
         return nextId;
     }
+
 }
